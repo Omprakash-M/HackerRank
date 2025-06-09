@@ -18,11 +18,9 @@ Sample Input 0
 
 5
 101 102 103 104 105
-
 Sample Output 0
 
 101 102 103 104
-
 Explanation 0
 
 The catalog is initialized with 5 book IDs: 101 102 103 104 105. The last book ID 105 is removed from the end of the catalog. The updated list after deletion is 101 102 103 104.
@@ -31,11 +29,9 @@ Sample Input 1
 
 1
 701
-
 Sample Output 1
 
 List is empty
-
 Explanation 1
 
 The catalog initially contains one book ID: 701. After removing the last book (701), the list becomes empty.So that print "List is empty"
