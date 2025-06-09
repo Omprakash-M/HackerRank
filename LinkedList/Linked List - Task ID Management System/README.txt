@@ -18,11 +18,9 @@ Sample Input 0
 
 5
 201 202 203 204 205
-
 Sample Output 0
 
 205 204 203 202 201
-
 Explanation 0
 
 Initially the linked list is empty. The first task ID 201 is inserted at the beginning, and the list becomes 201. The second task ID 202 is inserted at the beginning, and the list becomes 202 201. The third task ID 203 is inserted at the beginning, and the list becomes 203 202 201. The fourth task ID is inserted at the beginning, and the list becomes 204 203 202 201. The fifth task ID is inserted at the beginning, and the list becomes 205 204 203 202 201.
@@ -31,7 +29,6 @@ Sample Input 1
 
 3
 10 20 30
-
 Sample Output 1
 
 30 20 10
