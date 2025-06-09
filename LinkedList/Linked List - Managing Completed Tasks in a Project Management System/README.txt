@@ -20,11 +20,9 @@ Sample Input 0
 6
 201 202 203 204 205 206
 4
-
 Sample Output 0
 
 201 202
-
 Explanation 0
 
 The initial task list contains 6 task IDs: 201 202 203 204 205 206. After the first deletion, the task ID 206 (the last task) is removed. After the second deletion, the task ID 205 is removed. After the third deletion, the task ID 204 is removed. After the fourth deletion, the task ID 203 is removed. Finally, the remaining task list contains 201 202, indicating these are the active tasks left to complete.
@@ -34,11 +32,9 @@ Sample Input 1
 5
 101 102 103 104 105
 5
-
 Sample Output 1
 
 List is empty
-
 Explanation 1
 
 The initial task list contains 5 task IDs: 101, 102, 103, 104, 105.After the first deletion, the task ID 105 (the last task) is removed from the list.After the second deletion, the task ID 104 is removed.After the third deletion, the task ID 103 is removed.After the fourth deletion, the task ID 102 is removed.After the fifth deletion, the task ID 101 is removed, which is the only task left in the list.Finally, after all deletions, the list becomes empty, indicating that all tasks have been completed and there are no active tasks left to work on. Thus, the output will be "List is empty."
