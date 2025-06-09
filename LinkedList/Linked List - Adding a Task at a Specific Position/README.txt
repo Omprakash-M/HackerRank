@@ -22,11 +22,9 @@ Sample Input 0
 101 102 103 104
 2
 999
-
 Sample Output 0
 
 101 999 102 103 104
-
 Explanation 0
 
 The task list is initialized with 4 task IDs: 101 102 103 104. The new task ID 999 is inserted at position 2 (between 101 and 102). The updated list after insertion is 101 999 102 103 104.
@@ -37,7 +35,6 @@ Sample Input 1
 201 202 203
 1
 555
-
 Sample Output 1
 
 555 201 202 203
