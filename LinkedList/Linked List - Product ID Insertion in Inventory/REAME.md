@@ -18,9 +18,11 @@ Sample Input 0
 
 5
 101 102 103 104 105
+
 Sample Output 0
 
 101 102 103 104 105
+
 Explanation 0
 
 Initially the linked list is empty. The first product ID 101 is inserted at the end, and the list becomes 101. The second product ID 102 is inserted at the end, and the list becomes 101 102. The third product ID 103 is inserted at the end, and the list becomes 101 102 103. The fourth product ID 104 is inserted at the end, and the list becomes 101 102 103 104. The fifth product ID 105 is inserted at the, and the list becomes 101 102 103 104 105.
@@ -29,4 +31,7 @@ Sample Input 1
 
 3
 101 102 103
+
 Sample Output 1
+
+101 102 103
