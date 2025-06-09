@@ -20,11 +20,9 @@ Sample Input 0
 5
 101 102 103 104 105
 3
-
 Sample Output 0
 
 101 102 104 105
-
 Explanation 0
 
 The task list is initialized with 5 task IDs: 101 102 103 104 105. The task at position 3 (103) is removed from the list. The updated list after deletion is 101 102 104 105.
@@ -33,11 +31,9 @@ Sample Input 1
 
 0
 1
-
 Sample Output 1
 
 List is empty
-
 Explanation 1
 
 The task list is initially empty. Attempting to delete at position 1 returns "List is empty."
