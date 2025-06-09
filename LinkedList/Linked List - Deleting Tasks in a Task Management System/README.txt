@@ -20,11 +20,9 @@ Sample Input 0
 5
 301 302 303 304 305
 3
-
 Sample Output 0
 
 304 305
-
 Explanation 0
 
 The linked list is initialized with 5 task IDs: 301 302 303 304 305. After the first deletion, the task ID 301 is removed. After the second deletion, the task ID 302 is removed. After the third deletion, the task ID 303 is removed. Finally, the linked list becomes 304 305.
@@ -34,11 +32,9 @@ Sample Input 1
 1
 999
 1
-
 Sample Output 1
 
 List is empty
-
 Explanation 1
 
 The linked list is initialized with a single task ID: 999.Since there is only one task in the list (999), deleting this single task will make the list empty.After performing the deletion, the list becomes empty.So that as per program's requirement print "List is empty".
