@@ -20,11 +20,9 @@ Sample Input 0
 
 5
 1 2 3 4 5
-
 Sample Output 0
 
 3 4 5
-
 Explanation 0
 
 The list contains tasks with IDs: 1 -> 2 -> 3 -> 4 -> 5.
@@ -35,7 +33,6 @@ Sample Input 1
 
 6
 10 20 30 40 50 60
-
 Sample Output 1
 
 40 50 60
