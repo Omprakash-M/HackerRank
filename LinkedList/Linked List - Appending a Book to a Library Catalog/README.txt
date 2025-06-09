@@ -18,11 +18,9 @@ Sample Input 0
 
 4
 201 202 203 204
-
 Sample Output 0
 
 201 202 203 204
-
 Explanation 0
 
 Initially, the catalog is empty. First, the new book ID 201 is appended to the end of the catalog. The list becomes 201. Then the second book ID 202 is appended to the end of the catalog, making the list 201 202. Next, the third book ID 203 is appended to the end of the catalog, updating the list to 201 202 203. Finally, the fourth book ID 204 is appended to the end of the catalog, resulting in the final list of book IDs: 201 202 203 204.
@@ -31,7 +29,6 @@ Sample Input 1
 
 3
 101 102 103
-
 Sample Output 1
 
 101 102 103
