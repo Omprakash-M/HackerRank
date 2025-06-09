@@ -18,11 +18,9 @@ Sample Input 0
 
 4
 101 102 103 104
-
 Sample Output 0
 
 101 102 103 104
-
 Explanation 0
 
 The circular linked list is initially empty, and the first task with ID 101 is inserted, making it the head, pointing to itself. The second task ID 102 is inserted at the end, and the last node 101 now points to 102, which points back to the head. The third task ID 103 is added, with the last node 102 pointing to 103, and 103 pointing back to 101. The fourth task ID 104 is inserted at the end, with 103 pointing to 104, and 104 pointing back to 101. Finally, task ID 105 is appended, and the last node 104 points to 105, which in turn points back to the head 101.
@@ -31,7 +29,6 @@ Sample Input 1
 
 3
 201 202 203
-
 Sample Output 1
 
 201 202 203
